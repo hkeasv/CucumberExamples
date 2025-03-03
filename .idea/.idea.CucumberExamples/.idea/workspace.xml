@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8fd5e772-07f9-4767-97ab-aee5a28afef3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CucumberExamples/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CucumberExamples/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CucumberExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CucumberExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorLib.Specs/AddExamples.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorLib.Specs/AddExamples.feature.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorLib.Specs/CalculateAgeExamples.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorLib.Specs/CalculateAgeExamples.feature.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CalculatorLib.Specs/CalculatorLib.Specs.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorLib.Specs/CalculatorLib.Specs.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorLib.Specs/DataTable.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorLib.Specs/DataTable.feature.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorLib.Specs/DataTableWithMultipleObjects.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorLib.Specs/DataTableWithMultipleObjects.feature.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorLib.Specs/Enumeration.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorLib.Specs/Enumeration.feature.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +33,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "3132fd4c-5372-4461-9b32-42afbfffbd0a.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
@@ -40,6 +56,10 @@
       <updated>1727867236989</updated>
       <workItem from="1727867238741" duration="38000" />
       <workItem from="1727939713681" duration="116000" />
+      <workItem from="1728043759603" duration="2047000" />
+      <workItem from="1729497774515" duration="157000" />
+      <workItem from="1740584766415" duration="2665000" />
+      <workItem from="1740996014902" duration="518000" />
     </task>
     <servers />
   </component>
@@ -48,7 +68,6 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
