@@ -7,12 +7,6 @@
     <list default="true" id="8fd5e772-07f9-4767-97ab-aee5a28afef3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CucumberExamples/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CucumberExamples/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CucumberExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CucumberExamples/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatorLib.Specs/AddExamples.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorLib.Specs/AddExamples.feature.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatorLib.Specs/CalculateAgeExamples.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorLib.Specs/CalculateAgeExamples.feature.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatorLib.Specs/CalculatorLib.Specs.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorLib.Specs/CalculatorLib.Specs.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatorLib.Specs/DataTable.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorLib.Specs/DataTable.feature.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatorLib.Specs/DataTableWithMultipleObjects.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorLib.Specs/DataTableWithMultipleObjects.feature.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatorLib.Specs/Enumeration.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorLib.Specs/Enumeration.feature.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +25,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "3132fd4c-5372-4461-9b32-42afbfffbd0a.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;3132fd4c-5372-4461-9b32-42afbfffbd0a.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="3132fd4c-5372-4461-9b32-42afbfffbd0a">
+    <configuration name="CalculatorLib.Specs" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CalculatorLib.Specs/CalculatorLib.Specs.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,6 +77,15 @@
       <workItem from="1729497774515" duration="157000" />
       <workItem from="1740584766415" duration="2665000" />
       <workItem from="1740996014902" duration="518000" />
+      <workItem from="1741000069340" duration="335000" />
+      <workItem from="1741006581718" duration="53000" />
+      <workItem from="1741007949703" duration="605000" />
+      <workItem from="1742804821648" duration="823000" />
+      <workItem from="1743679664828" duration="606000" />
+      <workItem from="1745835249091" duration="148000" />
+      <workItem from="1757580572956" duration="47000" />
+      <workItem from="1759211705667" duration="1405000" />
+      <workItem from="1759219115522" duration="209000" />
     </task>
     <servers />
   </component>
@@ -69,5 +95,23 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
